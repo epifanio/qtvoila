@@ -1,5 +1,5 @@
-from PySide2 import QtCore
-from PySide2.QtWebEngineWidgets import QWebEngineView
+from PyQt5 import QtCore
+from PyQt5.QtWebEngineWidgets import QWebEngineView
 import nbformat as nbf
 import numpy as np
 import tempfile
